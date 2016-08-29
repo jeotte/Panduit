@@ -9,7 +9,7 @@ import java.util.Map;
  * This class implements Dijkstra's Algorithm and uses it to find the shortest path between two vertices as well
  * as the shortest distance between two vertices, given a directed graph.  
  * 
- * @author Jessica 
+ * @author Jessica Otte	
  *
  */
 public class DijkstrasAlgorithm {
