@@ -1,5 +1,5 @@
 # Panduit
-Java Assignment
+Java Assignment (as part of the hiring process at Panduit)
 
 A graph data structure with the ability to add/remove edges/vertices and find the shortest path.  Includes unit tests.
 
